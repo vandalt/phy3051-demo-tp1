@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 # Data for project
-simulated_data.txt
-best_mod_y.txt
+top_secret_data.txt
+top_secret_model.txt
